@@ -4,7 +4,7 @@ Team members: Harvir Dhaliwal, Ritchie Xia, Sandon Li, Jessica He
 
 RecipEZ is a native Android mobile app that suggests recipes based on user selection of available ingredients with a Java frontend, JavaScript/Node.js backend, and MongoDB database. (Click the below image to watch our YouTube video!)
 
-[![RecipEZ](https://github.com/jessicahe21/RecipEZ/assets/38922275/d94570e0-1ac1-406d-b462-9e51cd820b7a)](https://youtu.be/WgVdb-ZTIbo)
+[![RecipEZ](https://github.com/jessicahe21/RecipEZ/blob/main/Screenshot%202023-10-07%20232150.png)](https://youtu.be/WgVdb-ZTIbo)
 
 The problem that RecipEZ is aiming to solve is reducing food waste from household kitchens as well as teaching people how to cook using the ingredients that they have at home. The target audience for our product are young, busy people with occupied schedules that don’t have the luxury of time to plan out their meals intricately, often losing track of the food they have at home. RecipEZ helps people manage their fridge and kitchen pantry by notifying them when food is expiring and suggesting recipes to cook before their ingredients go bad. This allows users to learn different recipes and broaden their cooking repertoire while making sure food isn’t wasted!
 
